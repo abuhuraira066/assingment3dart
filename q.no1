@@ -1,5 +1,5 @@
 # assingment3dart
-create a vehicle class with brand , model ,and year properties and a method called drive ( ) that prints a message indicating that the vehicle is being driven . then create a Car class that inherits from vehicle and has a numDoors property . Override the drive( ) method in the car class to print a message that includes the number of doors in dart language 
+create a vehicle class with brand , model ,and year properties and a method called drive ( ) that prints a message indicating that the vehicle is being driven . then create a Car class that inherits from vehicle and has a numDoors property . Override the drive( ) method in the car class to print a message that includes the number of doors .
 
 
 class Vehicle {
